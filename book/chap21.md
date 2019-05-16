@@ -2608,7 +2608,7 @@ There are a few more interesting text manipulation commands worth investigating.
 Among these are: split (split files into pieces), csplit (split files into pieces based
 on context), and sdiff (side-by-side merge of file differences.)
 
-有一些更有趣的文本操作命令值得。在它们之间有：split（把文件分割成碎片），
+还有一些有趣的文本操作命令值得探讨，如：split（把文件分割成碎片），
 csplit（基于上下文把文件分割成碎片），和 sdiff（并排合并文件差异）。
 
 
